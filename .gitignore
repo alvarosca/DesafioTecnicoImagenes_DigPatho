@@ -1,0 +1,7 @@
+# Ignorar la carpeta imgs
+imgs/
+
+# Ignorar __pycache__ y archivos .pyc
+__pycache__/
+*.pyc
+*.pyo
